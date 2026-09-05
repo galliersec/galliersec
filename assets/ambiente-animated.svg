@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="Ambiente animado GallierSec">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="1" stop-color="#0d0d0d"/></linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.025"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="358" rx="16" fill="url(#panel)" stroke="#f2f2f2" stroke-opacity="0.20" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="358" rx="16" fill="url(#scan)"/>
+  <rect x="1" y="1" width="998" height="44" rx="16" fill="#111111"/><rect x="1" y="28" width="998" height="17" fill="#111111"/>
+  <circle cx="28" cy="22" r="5" fill="#d8d8d8" opacity="0.45"/><circle cx="47" cy="22" r="5" fill="#d8d8d8" opacity="0.65"/><circle cx="66" cy="22" r="5" fill="#ffffff" opacity="0.9"/>
+  <text x="500" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#a8a8a8" letter-spacing="1.5">galliersec@security-lab: ~/ambiente</text>
+  <text x="58" y="82" font-family="monospace" font-size="18" fill="#ffffff">$ ./ambiente --listar</text>
+  <g font-family="monospace" font-size="15">
+    <text x="58" y="126" fill="#ffffff" opacity="0">[SISTEMAS]<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.08;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="92" y="154" fill="#d7d7d7" opacity="0">├─ Linux<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.12;0.18;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="92" y="180" fill="#d7d7d7" opacity="0">├─ Kali Linux<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20;0.26;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="92" y="206" fill="#d7d7d7" opacity="0">└─ Windows<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.28;0.34;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="400" y="126" fill="#ffffff" opacity="0">[FERRAMENTAS]<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.36;0.42;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="434" y="154" fill="#bdbdbd" opacity="0">├─ VS Code<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.44;0.50;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="434" y="180" fill="#bdbdbd" opacity="0">├─ Git<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.58;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="434" y="206" fill="#bdbdbd" opacity="0">└─ GitHub<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.60;0.66;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="690" y="126" fill="#ffffff" opacity="0">[FOCO]<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68;0.72;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="724" y="154" fill="#9f9f9f" opacity="0">├─ Pentest<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72;0.76;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="724" y="180" fill="#9f9f9f" opacity="0">├─ Redes<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.76;0.80;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="724" y="206" fill="#9f9f9f" opacity="0">├─ Linux<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.80;0.84;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="724" y="232" fill="#9f9f9f" opacity="0">├─ Reconhecimento<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.84;0.88;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="724" y="258" fill="#9f9f9f" opacity="0">└─ Fundamentos de segurança<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.88;0.92;1" dur="8s" repeatCount="indefinite"/></text>
+  </g>
+  <line x1="58" y1="294" x2="942" y2="294" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="58" y="327" font-family="monospace" font-size="13" fill="#a8a8a8">ambiente:</text>
+  <text x="138" y="327" font-family="monospace" font-size="13" fill="#ffffff">PRONTO_PARA_ESTUDO</text>
+  <rect x="300" y="315" width="8" height="15" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" dur="0.9s" repeatCount="indefinite"/></rect>
+  <line x1="1" y1="52" x2="999" y2="52" stroke="#ffffff" stroke-width="1" opacity="0.08"><animate attributeName="y1" values="52;350;52" dur="5s" repeatCount="indefinite"/><animate attributeName="y2" values="52;350;52" dur="5s" repeatCount="indefinite"/></line>
+</svg>
