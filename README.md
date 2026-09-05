@@ -4,29 +4,26 @@
 
 <br>
 
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 ![FOCO](https://img.shields.io/badge/FOCO-PENTEST-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
-![MODO](https://img.shields.io/badge/MODO-APRENDIZADO-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+![STATUS](https://img.shields.io/badge/STATUS-EM_APRENDIZADO-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
 </div>
 
 ---
 
-## `./perfil --mostrar`
+## Sobre mim
 
-<div align="center">
+Sou **Arthur Gallier**, estudante de **Análise e Desenvolvimento de Sistemas** e atualmente direcionando meus estudos para **cybersecurity e pentest**.
 
-<img src="./assets/perfil-animated.svg" width="100%" alt="Perfil animado GallierSec" />
+Tenho interesse em entender sistemas além da interface: como se comunicam, como funcionam internamente, onde podem falhar e como podem ser analisados de forma segura.
 
-</div>
+> **Foco atual:** Linux, redes, fundamentos de segurança, pentest e automação.
 
 ---
 
-## `./stack --verificado`
+## Tecnologias
 
 <div align="center">
-
-### `LINGUAGENS / SCRIPTING`
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF)
@@ -35,9 +32,6 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
-
-### `BACKEND / DADOS`
-
 ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
@@ -46,26 +40,29 @@
 
 ---
 
-## `./ambiente --listar`
+## Ambiente de estudo
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
-
-<br><br>
-
-<img src="./assets/ambiente-animated.svg" width="100%" alt="Ambiente animado GallierSec" />
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows11&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
+| Agora | Próximo passo | Explorando |
+| --- | --- | --- |
+| Linux e terminal | Projetos backend/API | Engenharia reversa |
+| Redes | Labs de segurança | Análise de software |
+| Fundamentos de segurança | Writeups técnicos | Automação |
+| Metodologia de pentest | Projetos práticos |  |
+
 ---
 
-## `./roadmap --acompanhar`
+## Roadmap
 
 <div align="center">
 
@@ -75,17 +72,22 @@
 
 ---
 
-## `ls ~/projetos`
+## Projetos
 
-<div align="center">
+Ainda estou organizando os primeiros projetos públicos do perfil.
 
-<img src="./assets/projetos-animated.svg" width="100%" alt="Projetos animados GallierSec" />
+A ideia é usar este GitHub para publicar principalmente:
 
-</div>
+- laboratórios de segurança;
+- estudos e writeups;
+- scripts e automações;
+- projetos relacionados a backend e redes.
+
+`~/projetos -> preparando...`
 
 ---
 
-## `./contribuicoes --snake`
+## Contribuições
 
 <div align="center">
 
@@ -99,7 +101,7 @@
 
 ---
 
-## `./conexoes --abrir`
+## Contato
 
 <div align="center">
 
@@ -112,9 +114,9 @@
 
 <br><br>
 
-<img src="./assets/rodape-animated.svg" width="100%" alt="Rodapé animado GallierSec" />
+`Entender. Analisar. Testar com responsabilidade. Aprender. Construir melhor.`
 
-<br>
+<br><br>
 
 `© 2026 Arthur Gallier // GALLIERSEC`
 
