@@ -96,20 +96,23 @@ security-lab/
 
 ---
 
-## `cat current_missions.log`
+## `./roadmap --status`
 
-```console
-[01] Linux               ███████████████████░
-[02] Networking          ███████████████░░░░░
-[03] Cybersecurity       ██████████████░░░░░░
-[04] Pentest             ████████████░░░░░░░░
-[05] Backend             █████████████████░░░
-[06] Real projects       ███████████████░░░░░
-[07] Reverse Engineering ██████████░░░░░░░░░░
+```text
+┌── CURRENT
+│   ├── Linux & command line
+│   ├── Networking fundamentals
+│   ├── Cybersecurity fundamentals
+│   └── Pentest methodology & labs
+│
+├── NEXT
+│   ├── Backend / API projects
+│   └── Security labs & writeups
+│
+└── EXPLORING
+    └── Reverse engineering
 
-[+] mission_status     = ACTIVE
-[+] learning_protocol  = ENABLED
-[+] curiosity_engine   = RUNNING
+[galliersec@security-lab] status: learning in public
 ```
 
 ---
