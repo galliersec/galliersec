@@ -17,13 +17,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVG
+      - name: Generate monochrome snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300E7FF
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300E7FF
+            dist/github-contribution-grid-snake.svg?color_snake=%23111111&color_dots=%23ebedf0,%23c6c6c6,%238c8c8c,%23555555,%23111111
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%23161b22,%233a3a3a,%23666666,%23999999,%23ffffff
 
       - name: Publish snake to output branch
         uses: peaceiris/actions-gh-pages@v4
