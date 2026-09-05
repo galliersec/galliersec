@@ -12,7 +12,7 @@
     <text x="58" y="82" fill="#ffffff">$ whoami</text>
     <text x="58" y="112" fill="#d7d7d7" opacity="0">Arthur Gallier<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.10;1" dur="7s" repeatCount="indefinite"/></text>
     <text x="58" y="140" fill="#bdbdbd" opacity="0">Estudante de Análise e Desenvolvimento de Sistemas<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16;0.24;1" dur="7s" repeatCount="indefinite"/></text>
-    <text x="58" y="184" fill="#ffffff" opacity="0">$ cat foco.txt<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.30;0.36;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="58" y="184" fill="#ffffff" opacity="0">$ foco<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.30;0.36;1" dur="7s" repeatCount="indefinite"/></text>
     <text x="58" y="214" fill="#d7d7d7" opacity="0">Cibersegurança · Pentest · Linux · Redes<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.48;1" dur="7s" repeatCount="indefinite"/></text>
     <text x="58" y="244" fill="#bdbdbd" opacity="0">Backend · Automação · Engenharia reversa<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.60;1" dur="7s" repeatCount="indefinite"/></text>
     <text x="58" y="286" fill="#ffffff" opacity="0">$ objetivo --atual<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64;0.72;1" dur="7s" repeatCount="indefinite"/></text>
