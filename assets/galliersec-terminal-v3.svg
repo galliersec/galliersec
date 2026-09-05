@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Banner terminal monocromático GallierSec">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030303"/>
+      <stop offset="0.55" stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#404040"/>
+      <stop offset="0.5" stop-color="#f5f5f5"/>
+      <stop offset="1" stop-color="#404040"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-width="0.45" opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="417" rx="17" fill="none" stroke="url(#edge)" stroke-width="2" opacity="0.75"/>
+  <rect x="0" y="48" width="1200" height="372" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1200" height="48" rx="18" fill="#080808"/>
+  <rect x="0" y="31" width="1200" height="17" fill="#080808"/>
+  <circle cx="28" cy="24" r="6" fill="#e8e8e8"/>
+  <circle cx="50" cy="24" r="6" fill="#909090"/>
+  <circle cx="72" cy="24" r="6" fill="#444444"/>
+  <text x="600" y="30" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b8b8b" letter-spacing="2">root@galliersec: ~/perfil</text>
+  <text x="1165" y="30" text-anchor="end" font-family="monospace" font-size="10" fill="#d8d8d8" letter-spacing="2">SESSÃO::ATIVA</text>
+
+  <g font-family="monospace" font-size="74" font-weight="700" text-anchor="middle" filter="url(#softGlow)">
+    <text x="596" y="138" fill="#555555" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="-2 0;-1 -1;-2 0" dur="0.24s" repeatCount="indefinite"/>GALLIERSEC</text>
+    <text x="604" y="138" fill="#a8a8a8" opacity="0.55"><animateTransform attributeName="transform" type="translate" values="2 0;1 1;2 0" dur="0.24s" repeatCount="indefinite"/>GALLIERSEC</text>
+    <text x="600" y="138" fill="#f5f5f5">GALLIERSEC</text>
+  </g>
+
+  <text x="600" y="168" text-anchor="middle" font-family="monospace" font-size="13" fill="#bdbdbd" letter-spacing="5">// CIBERSEGURANÇA · PENTEST · SISTEMAS</text>
+
+  <g font-family="monospace" font-size="17">
+    <text x="78" y="220" fill="#8a8a8a">┌──(galliersec㉿security-lab)-[~]</text>
+    <text x="78" y="250" fill="#f0f0f0">└─$ whoami</text>
+    <text x="235" y="250" fill="#bdbdbd">Arthur Gallier // Estudante de ADS</text>
+
+    <text x="78" y="292" fill="#f0f0f0">└─$ status --aprendizado</text>
+    <text x="332" y="292" fill="#ffffff">ATIVO</text>
+    <text x="398" y="292" fill="#777777">// estudando, testando, documentando</text>
+
+    <text x="78" y="334" fill="#f0f0f0">└─$ _</text>
+    <rect x="147" y="319" width="10" height="20" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <g font-family="monospace" font-size="10" letter-spacing="2">
+    <text x="78" y="398" fill="#666666">NÓ: BR-01</text>
+    <text x="250" y="398" fill="#aaaaaa">SINAL: ESTÁVEL</text>
+    <text x="440" y="398" fill="#888888">MODO: RECON</text>
+    <text x="1122" y="398" text-anchor="end" fill="#ffffff">ACESSO CONCEDIDO</text>
+  </g>
+
+  <line x1="0" y1="60" x2="1200" y2="60" stroke="#ffffff" stroke-width="1" opacity="0.09">
+    <animate attributeName="y1" values="58;414;58" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="58;414;58" dur="4s" repeatCount="indefinite"/>
+  </line>
+</svg>
