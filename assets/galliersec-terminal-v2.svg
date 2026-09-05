@@ -44,8 +44,8 @@
     <text x="78" y="250" fill="#f0f0f0">└─$ whoami</text>
     <text x="235" y="250" fill="#bdbdbd">Arthur Gallier // Estudante de ADS</text>
 
-    <text x="78" y="286" fill="#f0f0f0">└─$ cat foco.txt</text>
-    <text x="275" y="286" fill="#bdbdbd">pentest · linux · redes · backend</text>
+    <text x="78" y="286" fill="#f0f0f0">└─$ foco</text>
+    <text x="190" y="286" fill="#bdbdbd">pentest · linux · redes · backend</text>
 
     <text x="78" y="322" fill="#f0f0f0">└─$ status --aprendizado</text>
     <text x="332" y="322" fill="#ffffff">ATIVO</text>
