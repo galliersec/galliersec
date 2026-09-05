@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="./assets/galliersec-terminal-v2.svg" width="100%" alt="GallierSec cyber terminal" />
+<img src="./assets/galliersec-terminal-v2.svg" width="100%" alt="GallierSec monochrome terminal" />
+
+<br>
+
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+![FOCUS](https://img.shields.io/badge/FOCUS-PENTEST-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+![MODE](https://img.shields.io/badge/MODE-LEARNING-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
 </div>
 
+---
+
 ## `root@galliersec:~# whoami`
 
-```bash
+```text
 ┌──(galliersec㉿security-lab)-[~]
 └─$ whoami
 Arthur Gallier
@@ -18,12 +26,14 @@ Linux & Networking
 Backend & Automation
 
 └─$ cat mindset.txt
-Understand.
-Analyze.
+Understand the system.
+Analyze the behavior.
 Test responsibly.
-Learn.
-Build better.
+Learn from the result.
+Build it better.
 ```
+
+> Studying systems beyond the interface — how they communicate, how they fail, and how they can be made more secure.
 
 ---
 
@@ -31,16 +41,21 @@ Build better.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4F96)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=00E7FF)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=BD00FF)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=00E7FF)
+### `LANGUAGES / SCRIPTING`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![C Sharp](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
+
+### `BACKEND / DATA`
+
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
 
 </div>
 
@@ -48,18 +63,30 @@ Build better.
 
 ## `./environment --list`
 
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+
+</div>
+
 ```text
-┌── operating_systems
+security-lab/
+├── systems/
 │   ├── Linux
 │   ├── Kali Linux
 │   └── Windows
 │
-├── development
+├── workflow/
 │   ├── VS Code
 │   ├── Git
 │   └── GitHub
 │
-└── current_focus
+└── focus/
     ├── Pentest
     ├── Networking
     ├── Linux
@@ -121,10 +148,10 @@ No featured repositories detected.
 <div align="center">
 
 <a href="https://github.com/galliersec">
-  <img src="https://img.shields.io/badge/GITHUB-galliersec-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-galliersec-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/arthur-gallier-b864593b4">
-  <img src="https://img.shields.io/badge/LINKEDIN-Arthur_Gallier-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD00FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Arthur_Gallier-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 
 </div>
@@ -140,7 +167,7 @@ No featured repositories detected.
 │ STATUS ........... learning                              │
 │ SYSTEM ........... online                                │
 │                                                           │
-│ Understand the system. Test responsibly. Build better.   │
+│   UNDERSTAND // ANALYZE // TEST // LEARN // BUILD         │
 └───────────────────────────────────────────────────────────┘
 ```
 
