@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/galliersec-terminal-v3.svg" width="100%" alt="Terminal monocromático GallierSec" />
+<img src="./assets/galliersec-terminal-v4.svg" width="100%" alt="Terminal monocromático GallierSec" />
 
 <br>
 
