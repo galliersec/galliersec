@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="GallierSec animated learning roadmap">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.025"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="358" rx="16" fill="url(#panel)" stroke="#f2f2f2" stroke-opacity="0.20" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="358" rx="16" fill="url(#scan)"/>
+
+  <!-- terminal bar -->
+  <rect x="1" y="1" width="998" height="44" rx="16" fill="#111111"/>
+  <rect x="1" y="28" width="998" height="17" fill="#111111"/>
+  <circle cx="28" cy="22" r="5" fill="#d8d8d8" opacity="0.45"/>
+  <circle cx="47" cy="22" r="5" fill="#d8d8d8" opacity="0.65"/>
+  <circle cx="66" cy="22" r="5" fill="#ffffff" opacity="0.9"/>
+  <text x="500" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#a8a8a8" letter-spacing="1.5">galliersec@security-lab: ~/roadmap</text>
+
+  <!-- title -->
+  <text x="58" y="82" font-family="monospace" font-size="18" fill="#ffffff" filter="url(#softGlow)">$ ./roadmap --watch</text>
+  <text x="58" y="109" font-family="monospace" font-size="12" fill="#8b8b8b">tracking current learning state...</text>
+  <rect x="284" y="98" width="8" height="14" fill="#ffffff">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- CURRENT -->
+  <g font-family="monospace" font-size="15">
+    <text x="58" y="146" fill="#ffffff" opacity="0">[CURRENT]
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.08;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="92" y="174" fill="#d7d7d7" opacity="0">├─ Linux &amp; command line
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10;0.16;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="92" y="200" fill="#d7d7d7" opacity="0">├─ Networking fundamentals
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18;0.24;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="92" y="226" fill="#d7d7d7" opacity="0">├─ Cybersecurity fundamentals
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26;0.32;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="92" y="252" fill="#d7d7d7" opacity="0">└─ Pentest methodology &amp; labs
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34;0.40;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- NEXT column -->
+    <text x="555" y="146" fill="#ffffff" opacity="0">[NEXT]
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.45;0.52;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="589" y="174" fill="#bdbdbd" opacity="0">├─ Backend / API projects
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.58;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="589" y="200" fill="#bdbdbd" opacity="0">└─ Security labs &amp; writeups
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.60;0.66;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="555" y="238" fill="#ffffff" opacity="0">[EXPLORING]
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68;0.74;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="589" y="266" fill="#9f9f9f" opacity="0">└─ Reverse engineering
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74;0.80;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- bottom status -->
+  <line x1="58" y1="300" x2="942" y2="300" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="58" y="329" font-family="monospace" font-size="13" fill="#a8a8a8">status:</text>
+  <text x="120" y="329" font-family="monospace" font-size="13" fill="#ffffff">LEARNING_IN_PUBLIC</text>
+  <rect x="270" y="317" width="8" height="15" fill="#ffffff">
+    <animate attributeName="opacity" values="1;1;0;0" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="942" y="329" text-anchor="end" font-family="monospace" font-size="11" fill="#777777">MODE: ACTIVE</text>
+
+  <!-- animated scanline -->
+  <line x1="1" y1="52" x2="999" y2="52" stroke="#ffffff" stroke-width="1" opacity="0.08">
+    <animate attributeName="y1" values="52;350;52" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="52;350;52" dur="5s" repeatCount="indefinite"/>
+  </line>
+</svg>
