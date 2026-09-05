@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330" role="img" aria-label="Perfil animado GallierSec">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="1" stop-color="#0d0d0d"/></linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.025"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="328" rx="16" fill="url(#panel)" stroke="#f2f2f2" stroke-opacity="0.20" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="328" rx="16" fill="url(#scan)"/>
+  <rect x="1" y="1" width="998" height="44" rx="16" fill="#111111"/><rect x="1" y="28" width="998" height="17" fill="#111111"/>
+  <circle cx="28" cy="22" r="5" fill="#d8d8d8" opacity="0.45"/><circle cx="47" cy="22" r="5" fill="#d8d8d8" opacity="0.65"/><circle cx="66" cy="22" r="5" fill="#ffffff" opacity="0.9"/>
+  <text x="500" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#a8a8a8" letter-spacing="1.5">galliersec@security-lab: ~/perfil</text>
+  <g font-family="monospace" font-size="15">
+    <text x="58" y="82" fill="#ffffff">$ whoami</text>
+    <text x="58" y="112" fill="#d7d7d7" opacity="0">Arthur Gallier<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.10;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="58" y="140" fill="#bdbdbd" opacity="0">Estudante de Análise e Desenvolvimento de Sistemas<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16;0.24;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="58" y="184" fill="#ffffff" opacity="0">$ cat foco.txt<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.30;0.36;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="58" y="214" fill="#d7d7d7" opacity="0">Cibersegurança · Pentest · Linux · Redes<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.48;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="58" y="244" fill="#bdbdbd" opacity="0">Backend · Automação · Engenharia reversa<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.60;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="58" y="286" fill="#ffffff" opacity="0">$ objetivo --atual<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64;0.72;1" dur="7s" repeatCount="indefinite"/></text>
+    <text x="230" y="286" fill="#d7d7d7" opacity="0">entender sistemas, testar com responsabilidade e evoluir<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72;0.82;1" dur="7s" repeatCount="indefinite"/></text>
+    <rect x="720" y="273" width="8" height="16" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+  <line x1="1" y1="52" x2="999" y2="52" stroke="#ffffff" stroke-width="1" opacity="0.08"><animate attributeName="y1" values="52;320;52" dur="5s" repeatCount="indefinite"/><animate attributeName="y2" values="52;320;52" dur="5s" repeatCount="indefinite"/></line>
+</svg>
