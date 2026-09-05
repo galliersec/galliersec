@@ -96,24 +96,13 @@ security-lab/
 
 ---
 
-## `./roadmap --status`
+## `./roadmap --watch`
 
-```text
-┌── CURRENT
-│   ├── Linux & command line
-│   ├── Networking fundamentals
-│   ├── Cybersecurity fundamentals
-│   └── Pentest methodology & labs
-│
-├── NEXT
-│   ├── Backend / API projects
-│   └── Security labs & writeups
-│
-└── EXPLORING
-    └── Reverse engineering
+<div align="center">
 
-[galliersec@security-lab] status: learning in public
-```
+<img src="./assets/roadmap-animated.svg" width="100%" alt="Animated GallierSec learning roadmap" />
+
+</div>
 
 ---
 
