@@ -1,47 +1,32 @@
 <div align="center">
 
-<img src="./assets/galliersec-terminal-v2.svg" width="100%" alt="GallierSec monochrome terminal" />
+<img src="./assets/galliersec-terminal-v2.svg" width="100%" alt="Terminal monocromático GallierSec" />
 
 <br>
 
 ![STATUS](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
-![FOCUS](https://img.shields.io/badge/FOCUS-PENTEST-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
-![MODE](https://img.shields.io/badge/MODE-LEARNING-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+![FOCO](https://img.shields.io/badge/FOCO-PENTEST-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+![MODO](https://img.shields.io/badge/MODO-APRENDIZADO-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
 </div>
 
 ---
 
-## `root@galliersec:~# whoami`
-
-```text
-┌──(galliersec㉿security-lab)-[~]
-└─$ whoami
-Arthur Gallier
-
-└─$ cat /etc/profile-focus
-ADS Student
-Cybersecurity & Pentest
-Linux & Networking
-Backend & Automation
-
-└─$ cat mindset.txt
-Understand the system.
-Analyze the behavior.
-Test responsibly.
-Learn from the result.
-Build it better.
-```
-
-> Studying systems beyond the interface — how they communicate, how they fail, and how they can be made more secure.
-
----
-
-## `./stack --verified`
+## `./perfil --mostrar`
 
 <div align="center">
 
-### `LANGUAGES / SCRIPTING`
+<img src="./assets/perfil-animated.svg" width="100%" alt="Perfil animado GallierSec" />
+
+</div>
+
+---
+
+## `./stack --verificado`
+
+<div align="center">
+
+### `LINGUAGENS / SCRIPTING`
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF)
@@ -51,7 +36,7 @@ Build it better.
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
 
-### `BACKEND / DATA`
+### `BACKEND / DADOS`
 
 ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
@@ -61,7 +46,7 @@ Build it better.
 
 ---
 
-## `./environment --list`
+## `./ambiente --listar`
 
 <div align="center">
 
@@ -72,70 +57,49 @@ Build it better.
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
-</div>
+<br><br>
 
-```text
-security-lab/
-├── systems/
-│   ├── Linux
-│   ├── Kali Linux
-│   └── Windows
-│
-├── workflow/
-│   ├── VS Code
-│   ├── Git
-│   └── GitHub
-│
-└── focus/
-    ├── Pentest
-    ├── Networking
-    ├── Linux
-    ├── Reconnaissance
-    └── Security Fundamentals
-```
+<img src="./assets/ambiente-animated.svg" width="100%" alt="Ambiente animado GallierSec" />
+
+</div>
 
 ---
 
-## `./roadmap --watch`
+## `./roadmap --acompanhar`
 
 <div align="center">
 
-<img src="./assets/roadmap-animated.svg" width="100%" alt="Animated GallierSec learning roadmap" />
+<img src="./assets/roadmap-animated.svg" width="100%" alt="Roadmap animado GallierSec" />
 
 </div>
 
 ---
 
-## `ls ~/projects`
+## `ls ~/projetos`
 
-```console
-STATUS: INITIALIZING...
+<div align="center">
 
-No featured repositories detected.
+<img src="./assets/projetos-animated.svg" width="100%" alt="Projetos animados GallierSec" />
 
-> studying...
-> testing...
-> building...
-> documentation pending...
-```
+</div>
 
 ---
 
-## `./contribution-snake`
+## `./contribuicoes --snake`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galliersec/galliersec/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galliersec/galliersec/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/galliersec/galliersec/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" alt="Snake de contribuições do GitHub" src="https://raw.githubusercontent.com/galliersec/galliersec/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-## `./connections --open`
+## `./conexoes --abrir`
 
 <div align="center">
 
@@ -146,25 +110,12 @@ No featured repositories detected.
   <img src="https://img.shields.io/badge/LINKEDIN-Arthur_Gallier-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 
-</div>
+<br><br>
 
----
+<img src="./assets/rodape-animated.svg" width="100%" alt="Rodapé animado GallierSec" />
 
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│ USER ............. galliersec                            │
-│ SPECIALIZATION ... cybersecurity / pentest               │
-│ STATUS ........... learning                              │
-│ SYSTEM ........... online                                │
-│                                                           │
-│   UNDERSTAND // ANALYZE // TEST // LEARN // BUILD         │
-└───────────────────────────────────────────────────────────┘
-```
+<br>
 
 `© 2026 Arthur Gallier // GALLIERSEC`
-
-`EOF_`
 
 </div>
