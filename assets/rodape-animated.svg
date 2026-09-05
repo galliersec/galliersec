@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Rodapé animado GallierSec">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="1" stop-color="#0d0d0d"/></linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.025"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="218" rx="16" fill="url(#panel)" stroke="#f2f2f2" stroke-opacity="0.20" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="218" rx="16" fill="url(#scan)"/>
+  <rect x="1" y="1" width="998" height="44" rx="16" fill="#111111"/><rect x="1" y="28" width="998" height="17" fill="#111111"/>
+  <circle cx="28" cy="22" r="5" fill="#d8d8d8" opacity="0.45"/><circle cx="47" cy="22" r="5" fill="#d8d8d8" opacity="0.65"/><circle cx="66" cy="22" r="5" fill="#ffffff" opacity="0.9"/>
+  <text x="500" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#a8a8a8" letter-spacing="1.5">galliersec@security-lab: sessão</text>
+  <g font-family="monospace" font-size="15">
+    <text x="58" y="82" fill="#ffffff">$ status --sessão</text>
+    <text x="58" y="118" fill="#d7d7d7" opacity="0">usuário: galliersec<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.12;1" dur="6s" repeatCount="indefinite"/></text>
+    <text x="310" y="118" fill="#d7d7d7" opacity="0">foco: cibersegurança / pentest<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26;0.36;1" dur="6s" repeatCount="indefinite"/></text>
+    <text x="58" y="152" fill="#bdbdbd" opacity="0">entender // analisar // testar // aprender // construir<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.44;0.56;1" dur="6s" repeatCount="indefinite"/></text>
+    <text x="58" y="188" fill="#ffffff" opacity="0">$ sessão --estado ATIVA<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64;0.76;1" dur="6s" repeatCount="indefinite"/></text>
+    <rect x="250" y="175" width="8" height="16" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+  <line x1="1" y1="52" x2="999" y2="52" stroke="#ffffff" stroke-width="1" opacity="0.08"><animate attributeName="y1" values="52;210;52" dur="4.5s" repeatCount="indefinite"/><animate attributeName="y2" values="52;210;52" dur="4.5s" repeatCount="indefinite"/></line>
+</svg>
