@@ -44,12 +44,15 @@
     <text x="78" y="250" fill="#f0f0f0">└─$ whoami</text>
     <text x="235" y="250" fill="#bdbdbd">Arthur Gallier // Estudante de ADS</text>
 
-    <text x="78" y="292" fill="#f0f0f0">└─$ status --aprendizado</text>
-    <text x="332" y="292" fill="#ffffff">ATIVO</text>
-    <text x="398" y="292" fill="#777777">// estudando, testando, documentando</text>
+    <text x="78" y="286" fill="#f0f0f0">└─$ foco</text>
+    <text x="190" y="286" fill="#bdbdbd">pentest · linux · redes · backend</text>
 
-    <text x="78" y="334" fill="#f0f0f0">└─$ _</text>
-    <rect x="147" y="319" width="10" height="20" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
+    <text x="78" y="322" fill="#f0f0f0">└─$ status --aprendizado</text>
+    <text x="332" y="322" fill="#ffffff">ATIVO</text>
+    <text x="398" y="322" fill="#777777">// estudando, testando, documentando</text>
+
+    <text x="78" y="358" fill="#f0f0f0">└─$ _</text>
+    <rect x="147" y="343" width="10" height="20" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
   </g>
 
   <g font-family="monospace" font-size="10" letter-spacing="2">
